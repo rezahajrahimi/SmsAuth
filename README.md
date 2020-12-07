@@ -1,4 +1,4 @@
-Sms authrizition + laravell passport
+SMS Authorization + laravell passport
 <div dir="rtl">
 
 # احراز هویت و ثبت نام پیامکی کاربر با شماره موبایل، ساخت توکن توسط لاراول پاسپورت
